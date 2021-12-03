@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.planet_checkbox {
+  margin-top: 0.5em;
+}
+.planet_checkbox-label {
+  margin-right: 0.5em;
+}
